@@ -1,0 +1,16 @@
+=== VAM: Vogel's Approximation Method ===
+
+Cost Matrix:
+[[11  6 15 13]
+ [ 8  8 13 18]
+ [ 9  2  1 20]]
+
+Supply: [27, 49, 34]
+Demand: [19, 15, 23, 53]
+
+Initial Basic Feasible Solution (VAM Allocation):
+[[ 0  4  0 23]
+ [19  0  0 30]
+ [ 0 11 23  0]]
+
+Initial Transportation Cost = 1060
